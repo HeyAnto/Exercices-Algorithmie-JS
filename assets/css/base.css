@@ -36,6 +36,11 @@
   --line-height-normal: 1.6; /* Paragraphe */
 }
 
+::selection {
+  color: var(--color-white);
+  background: var(--color-dark);
+}
+
 * {
   margin: 0;
   padding: 0;
