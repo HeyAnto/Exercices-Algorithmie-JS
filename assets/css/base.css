@@ -98,7 +98,7 @@ p {
 
 /* Mark */
 mark {
-  padding: 3px 8px;
+  padding: 0px 5px;
   border-radius: 3px;
   background-color: var(--color-grey-light);
 }
