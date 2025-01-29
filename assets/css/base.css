@@ -3,7 +3,7 @@
 
 @font-face {
   font-family: "BDO Grotesk";
-  src: url(/assets/font/BDOGrotesk-VF.ttf) format("truetype");
+  src: url(./assets/font/BDOGrotesk-VF.ttf) format("truetype");
 }
 
 :root {
